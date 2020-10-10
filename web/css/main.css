@@ -1,0 +1,55 @@
+.div1{
+    width: 14%;
+    height: 15%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.div2{
+    width: 50%;
+    height: 8%;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+}
+.div3{
+    width: 50%;
+    height: 7%;
+    position: absolute;
+    top: 8%;
+    left: 50%;
+}
+.div4{
+    width: 100%;
+    height: 85%;
+    position: absolute;
+    top: 15%;
+    left: 0%;
+}
+
+.div5{
+    width: 36%;
+    height: 15%;
+    position: absolute;
+    top: 0;
+    left: 14%;
+}
+
+.styleImgMain{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width:90%;
+    height: 90%;
+}
+
+.divLine{
+    width: 100%;
+    height: 10px;
+    background: black;
+    position: absolute;
+}
+
+.pointer{
+    cursor: pointer;
+}
